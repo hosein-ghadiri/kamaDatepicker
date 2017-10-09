@@ -1,0 +1,13 @@
+{
+    "name": "kamaDatepicker",
+    "description": "A jQuery based datepicker for jalali (shamsi) calendar.",
+    "main": [
+        "src/kamadatepicker.js",
+        "style/kamadatepicker.css"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hosein-ghadiri/kamaDatepicker.git"
+    }
+}
